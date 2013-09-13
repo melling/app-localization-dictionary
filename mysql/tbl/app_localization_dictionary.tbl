@@ -58,8 +58,8 @@ create table app_localization_dictionary (
 
       korean varchar(100) character set utf8 collate utf8_bin,
       korean_comments varchar(100) character set utf8 collate utf8_bin,
-      norweigan varchar(100) character set utf8 collate utf8_bin,
-      norweigan_comments varchar(100) character set utf8 collate utf8_bin,
+      norwegian varchar(100) character set utf8 collate utf8_bin,
+      norwegian_comments varchar(100) character set utf8 collate utf8_bin,
       polish varchar(100) character set utf8 collate utf8_bin,       
       polish_comments varchar(100) character set utf8 collate utf8_bin,       
       portuguese varchar(100) character set utf8 collate utf8_bin,
