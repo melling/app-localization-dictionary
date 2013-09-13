@@ -1,0 +1,111 @@
+drop table if exists app_localization_dictionary;
+
+create table app_localization_dictionary (
+
+      id integer primary key,
+	  
+      group_name varchar(30),
+	english varchar(100) not null, /* Not unique e.g. second=unit of time|second place */
+	comments_for_translator varchar(255),
+
+      arabic varchar(100) character set utf8 collate utf8_bin,
+      arabic_comments varchar(100) character set utf8 collate utf8_bin,
+      bengali varchar(100) character set utf8 collate utf8_bin,
+      bengali_comments varchar(100) character set utf8 collate utf8_bin,
+
+	chinese varchar(100) character set utf8 collate utf8_bin,
+      chinese_comments varchar(100) character set utf8 collate utf8_bin,
+      chinese_traditional varchar(100) character set utf8 collate utf8_bin,
+      chinese_traditional_comments varchar(100) character set utf8 collate utf8_bin,
+
+      czech varchar(100) character set utf8 collate utf8_bin,
+      czech_comments varchar(100) character set utf8 collate utf8_bin,
+
+	danish varchar(100) character set utf8 collate utf8_bin,
+      danish_comments varchar(100) character set utf8 collate utf8_bin,
+	dutch varchar(100) character set utf8 collate utf8_bin,
+      dutch_comments varchar(100) character set utf8 collate utf8_bin,
+	farsi varchar(100) character set utf8 collate utf8_bin,
+      farsi_comments varchar(100) character set utf8 collate utf8_bin,
+      
+      finnish varchar(100) character set utf8 collate utf8_bin,
+      finnish_comments varchar(100) character set utf8 collate utf8_bin,
+      french varchar(100) character set utf8 collate utf8_bin,
+      french_comments varchar(100) character set utf8 collate utf8_bin,
+      german varchar(100) character set utf8 collate utf8_bin,
+      german_comments varchar(100) character set utf8 collate utf8_bin,
+      greek varchar(100) character set utf8 collate utf8_bin,
+      greek_comments varchar(100) character set utf8 collate utf8_bin,
+      hebrew varchar(100) character set utf8 collate utf8_bin,
+      hebrew_comments varchar(100) character set utf8 collate utf8_bin,
+      hindi varchar(100) character set utf8 collate utf8_bin,                  
+      hindi_comments varchar(100) character set utf8 collate utf8_bin,
+
+      hungarian varchar(100) character set utf8 collate utf8_bin,                  
+      hungarian_comments varchar(100) character set utf8 collate utf8_bin,
+
+      indonesian varchar(100) character set utf8 collate utf8_bin,                  
+      indonesian_comments varchar(100) character set utf8 collate utf8_bin,
+
+      italian varchar(100) character set utf8 collate utf8_bin,
+      italian_comments varchar(100) character set utf8 collate utf8_bin,
+      japanese varchar(100) character set utf8 collate utf8_bin,
+      japanese_comments varchar(100) character set utf8 collate utf8_bin,
+
+      /* Not japanese */
+      javanese varchar(100) character set utf8 collate utf8_bin,
+      javanese_comments varchar(100) character set utf8 collate utf8_bin,
+
+      korean varchar(100) character set utf8 collate utf8_bin,
+      korean_comments varchar(100) character set utf8 collate utf8_bin,
+      norweigan varchar(100) character set utf8 collate utf8_bin,
+      norweigan_comments varchar(100) character set utf8 collate utf8_bin,
+      polish varchar(100) character set utf8 collate utf8_bin,       
+      polish_comments varchar(100) character set utf8 collate utf8_bin,       
+      portuguese varchar(100) character set utf8 collate utf8_bin,
+      portuguese_comments varchar(100) character set utf8 collate utf8_bin,
+      portuguese_br varchar(100) character set utf8 collate utf8_bin,
+      portuguese_br_comments varchar(100) character set utf8 collate utf8_bin,
+
+      russian varchar(100) character set utf8 collate utf8_bin,
+      russian_comments varchar(100) character set utf8 collate utf8_bin,
+
+      spanish varchar(100) character set utf8 collate utf8_bin,       
+      spanish_comments varchar(100) character set utf8 collate utf8_bin,       
+
+      swedish varchar(100) character set utf8 collate utf8_bin,
+      swedish_comments varchar(100) character set utf8 collate utf8_bin,
+
+      thai varchar(100) character set utf8 collate utf8_bin,
+      thai_comments varchar(100) character set utf8 collate utf8_bin,
+
+      turkish varchar(100) character set utf8 collate utf8_bin, 
+      turkish_comments varchar(100) character set utf8 collate utf8_bin,
+
+      vietnamese varchar(100) character set utf8 collate utf8_bin,
+      vietnamese_comments varchar(100) character set utf8 collate utf8_bin,
+
+      sentinel int not null /* Github needs all columns so force the end so we can LOAD DATA */
+
+);
+
+create unique index app_localization_idx0 on app_localization_dictionary(id);
+create  index app_localization_idx1 on app_localization_dictionary(english);
+
+/*
+
+alter table major_word_group add spanish varchar(30) character set utf8 collate utf8_bin;
+
+LOAD DATA local INFILE "AppLocalization.tsv" INTO TABLE app_localization_dictionary FIELDS TERMINATED BY '\t' LINES TERMINATED BY '\n';
+
+delete from app_localization_dictionary where id = 0; -- Delete the header
+
+select *
+from app_localization al;
+
+
+select mg.*
+from app_localization al, major_word_group mg
+where al.english = mg.english;
+
+*/
