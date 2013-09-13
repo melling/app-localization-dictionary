@@ -1,0 +1,269 @@
+id	group	english	comments for translator	arabic	arabic_comments	bengali	bengali_comments	 chinese (simplified)	 chinese_simplified_comments	 chinese (traditional)	 chinese_traditional_comments	czech	czech_comments	 danish	danish_comments	 dutch	dutch_comments	 farsi/persian	farsi_comments	 finnish	finnish_comments	 french	french_comments	 german	german_comments	 greek	greek_comments	 hebrew	hebrew_comments	 hindi	hindi_comments	hungarian	hungarian_comments	indonesian	indonesian_comments	 italian	italian_comments	 japanese	 japanese_comments	jaVanese	javanese_comments	 korean	 korean_comments	 norweigan	 norweigan_comments	 polish	 polish_comments	 portuguese	 portuguese_comments	 portuguese_br	 portuguese_br_comments	 russian	 russian_comments	 spanish	 spanish_comments	 swedish	 swedish_comments	thai	thai_comments	 turkish	turkish_comments	vietnamese	vietnamese_comments	sentinel
+10	numbers	zero		אפס		শূন্য		零				nula		nul		nul		صفر		nolla		zéro		null		μηδέν		אפס		शून्य		nulla		nol		zero		ゼロ		nul		제로		null		zero		zero		zero		нулевой		cero		noll		เป็นศูนย์		sıfır		không		0
+20	numbers	one		אחד		এক		一				jeden		én		een		یک		yksi		un		ein		ένας		אחד		एक		egy		satu		uno		一		siji		하나		en		jeden		um		um		один		uno		ett		หนึ่ง		bir		một		0
+30	numbers	two		שנים		দুই		二				dvě		to		twee		دو		kaksi		deux		zwei		δυο		שנים		दो		két		dua		due		二		loro		두		to		dwa		dois		dois		два		dos		två		สอง		iki		hai		0
+40	numbers	three		שלושה		তিন		三				tři		tre		drie		سه		kolme		trois		drei		τρία		שלושה		तीन		három		tiga		tre		三		telung		세		tre		trzy		três		três		три		tres		tre		สาม		üç		ba		0
+50	numbers	four		ארבעה		চার		四				čtyři		fire		vier		چهار		neljä		quatre		vier		τέσσερα		ארבעה		चार		négy		empat		quattro		四		papat		네		fire		cztery		quatro		quatro		четыре		cuatro		fyra		สี่		dört		bốn		0
+60	numbers	five		חמישה		পাঁচ		五				pět		fem		vijf		پنج		viisi		cinq		fünf		πέντε		חמישה		पांच		öt		lima		cinque		五		lima		다섯		fem		pięć		cinco		cinco		пять		cinco		fem		ห้า		beş		năm		0
+70	numbers	six		שש		ছয়		六				šest		seks		zes		شش		kuusi		six		sechs		έξι		שש		छह		hat		enam		sei		六		nem		여섯		seks		sześć		seis		seis		шесть		seis		sex		หก		altı		sáu		0
+80	numbers	seven		שבעה		সাত		七				sedm		syv		zeven		هفت		seitsemän		sept		sieben		επτά		שבעה		सात		hét		tujuh		sette		七		pitu		일곱		syv		siedem		sete		sete		семь		siete		syv		เจ็ด		yedi		bảy		0
+90	numbers	eight		שמונה		আট		八				osm		otte		acht		هشت		kahdeksan		huit		acht		οκτώ		שמונה		आठ		nyolc		delapan		otto		八		wolung		여덟		åtte		osiem		oito		oito		восемь		ocho		åtta		แปด		sekiz		tám		0
+100	numbers	nine		תשעה		নয়টি		九				devět		ni		negen		نه نفر		yhdeksän		neuf		neun		εννέα		תשעה		नौ		kilenc		sembilan		nove		九		sangang		구		ni		dziewięć		nove		nove		девять		nueve		nio		เก้า		dokuz		chín		0
+110	numbers	ten		עשרה		দশ		十				deset		ti		tien		ده		kymmenen		dix		zehn		δέκα		עשרה		दस		tíz		sepuluh		dieci		十		sepuluh		열		ti		dziesięć		dez		dez		десять		diez		tio		สิบ		on		mười		0
+120	numbers	eleven		أحد عشر		এগারো		十一				jedenáct		elleve		elf		یازده		yksitoista		onze		elf		έντεκα		אחת עשרה		ग्यारह		tizenegy		sebelas		undici				sewelas		열한		elleve		jedenaście		onze		onze		одиннадцать		once		elva		สิบเอ็ด		on bir		mười một		0
+130	numbers	twelve		اثنا عشر		বারো		十二				dvanáct		tolv		twaalf		دوازده		kaksitoista		douze		zwölf		δώδεκα		שנים עשר		बारह		tizenkét		duabelas		dodici				rolas		열두		tolv		dwanaście		doze		doze		двенадцать		doce		tolv		สิบสอง		oniki		mười hai		0
+140	numbers	thirteen		ثلاثة عشر		তের		十三				třináct		tretten		dertien		سیزده		kolmetoista		treize		dreizehn		δεκατρία		שלושה עשר		तेरह		tizenhárom		tigabelas		tredici				telulas		열세		tretten		trzynaście		treze		treze		тринадцать		trece		tretton		สิบสาม		on üç		mười ba		0
+150	numbers	fourteen		أربعة عشرة		চৌদ্দ		十四				čtrnáct		fjorten		veertien		چهارده		neljätoista		quatorze		vierzehn		δεκατέσσερα		ארבעה עשר		चौदह		tizennégy		empatbelas		quattordici				patbelas		십사		fjorten		czternaście		catorze		catorze		четырнадцать		catorce		fjorton		สิบสี่		on dört		mười bốn		0
+160	numbers	fifteen		خمسة عشر		পনের		十五				patnáct		femten		vijftien		پانزده		viisitoista		quinze		fünfzehn		δεκαπέντε		חמישה עשר		पंद्रह		tizenöt		limabelas		quindici				limalas		열 다섯		femten		piętnaście		quinze		quinze		пятнадцать		quince		femton		สิบห้า		onbeş		mười lăm		0
+170	numbers	sixteen		ست عشرة		ষোল		十六				šestnáct		seksten		zestien		شانزده		kuusitoista		seize		sechzehn		δεκαέξι		שישה עשר		सोलह		tizenhat		enambelas		sedici anni				nembelas		열 여섯		seksten		szesnaście		dezesseis		dezesseis		шестнадцать		dieciséis		sexton		สิบหก		on altı		mười sáu		0
+180	numbers	seventeen		سبعة عشر		সতের		十七				sedmnáct		sytten		zeventien		هفده		seitsemäntoista		dix-sept		siebzehn		δεκαεπτά		שבעה עשר		सत्रह		tizenhét		tujuhbelas		diciassette anni				pitulas		십칠		sytten		siedemnaście		dezessete		dezessete		семнадцать		diecisiete		sjutton		สิบเจ็ด		on yedi		mười bảy		0
+190	numbers	eighteen		ثمانية عشر		আঠার		18				osmnáct		atten		achttien		هجده		kahdeksantoista		dix-huit		achtzehn		δεκαοκτώ		שמונה עשרה		अठारह		tizennyolc		delapan belas		diciotto				wolulas		십팔		atten		osiemnastu		dezoito		dezoito		восемнадцати		dieciocho		arton		แปด		onsekiz		mười tám		0
+200	numbers	nineteen		تسعة عشر		উনিশ		十九				devatenáct		nitten		negentien		عدد نوزده		yhdeksäntoista		dix-neuf		neunzehn		δεκαεννέα		תשעה עשר		उन्नीस		tizenkilenc		sembilanbelas		diciannove				sangalas		열 아홉		nitten		dziewiętnaście		dezenove		dezenove		девятнадцать		diecinueve		nitton		สิบเก้า		on dokuz		mười chín		0
+210	numbers	twenty		عشرون		বিশ		二十				dvacet		tyve		twintig		بیست		kaksikymmentä		vingt		zwanzig		είκοσι		עשרים		बीस		húsz		duapuluh		venti				puluh		스물		tjue		dwadzieścia		vinte		vinte		двадцать		veinte		tjugo		ยี่สิบ		yirmi		hai mươi		0
+220	ordinal numbers	first		الأول		প্রথম		第一				první		første		eerste		اولین		ensimmäinen		première		erste		πρώτα		ראשון		पहले		első		pertama		primo				pisanan		처음으로		første		pierwszy		primeiro		primeiro		первый		primero		först		เป็นครั้งแรก		ilk		đầu tiên		0
+230	ordinal numbers	second	second place	ثان		দ্বিতীয়		第二				druhý		sekund		tweede		دوم		toinen		deuxième		zweiten		δεύτερος		שני		दूसरा		második		kedua		secondo				liyane		초		andre		drugi		segundo		segundo		второй		segundo		andra		ที่สอง		ikinci		thứ hai		0
+240	ordinal numbers	third		ثالث		তৃতীয়		第三				třetí		tredje		derde		سوم		kolmas		troisième		dritten		τρίτος		שלישי		तृतीय		harmadik		ketiga		terzo				katelu		제		tredje		trzeci		terceiro		terceiro		третий		tercero		tredje		ที่สาม		üçüncü		thứ ba		0
+250	ordinal numbers	forth		عليها		উচ্চৈ: স্বরে		向前				dále		frem		voort		جلو		eteenpäin		suite		weiter		εμπρός		הלאה		आगे		tovább		seterusnya		fuori				kasebut		앞으로		tilbake		naprzód		adiante		adiante		вперед		adelante		framåt		ออกมา		ileri		ra		0
+260	ordinal numbers	fifth		خامس		পঁচম		第五				pátý		femte		vijfde		پنجم		viides		cinquième		fünfte		πέμπτος		חמישי		पांचवां		ötödik		kelima		quinto				kalima		다섯 번째		femte		piąty		quinto		quinto		пятый		quinto		femte		ที่ห้า		beşinci		thứ năm		0
+270	ordinal numbers	sixth		سادس		ষষ্ঠ		第六				šestý		sjette		zesde		ششم		kuudes		sixième		sechsten		έκτος		שישית		छठा		hatodik		keenam		sesto				enem		여섯 번째		sjette		szósty		sexto		sexto		шестой		sexto		sjätte		ที่หก		altıncı		thứ sáu		0
+280	ordinal numbers	seventh		سابع		সপ্তম		第七				sedmý		syvende		zevende		هفتم		seitsemäs		septième		siebte		έβδομος		שביעי		सातवां		hetedik		ketujuh		settimo				kapitu		일곱 번째		syvende		siódmy		sétimo		sétimo		седьмой		séptimo		sjunde		ที่เจ็ด		yedinci		thứ bảy		0
+290	ordinal numbers	eighth		ثامن		অষ্টম		第八				osmý		ottende		achtste		هشتمین		kahdeksas		huitième		achten		όγδοο		השמיני		आठवाँ		nyolcadik		kedelapan		ottavo				kawolu		여덟 번째		åttende		ósma		oitavo		oitavo		восьмой		octavo		åttonde		ที่แปด		sekizinci		thứ tám		0
+300	ordinal numbers	nineth		تاسعا		nineth		第九				Devátý		nineth		nineth		nineth		yhdeksäs		nineth		nineth		nineth		Nineth		nineth		kilencedik		nineth		nono				nineth		9 번째		nineth		dziewiątego		nineth		nineth		девятый		noveno		nineth		เก้า		dokuzuncu		nineth		0
+310	ordinal numbers	tenth		العاشر		দশম		第十				desátý		tiende		tiende		دهم		kymmenesosa		dixième		zehnten		δέκατος		עשירית		दसवां		tizedik		kesepuluh		decimo				kasapuluh		열째		tiende		dziesiąty		décimo		décimo		десятый		décimo		tionde		ที่สิบ		onuncu		phần mười		0
+320	languages	French		فرنسي		ফরাসি		法语				francouzský		Fransk		Frans		زبان فرانسه		ranskalainen		Français		Französisch		Γάλλος		צרפתי		फ्रेंच		francia		Perancis		francese		フランス語		Perancis		프랑스의		fransk		francuski		francês		francês		Французский		francés		Franska		ฝรั่งเศส		Fransızca		Pháp		0
+330	languages	German		ألماني		জার্মান		德语				Němec		German		Duits		آلمانی		saksa		Allemand		Deutsch		Γερμανός		גרמני		जर्मन		német		Jerman		tedesco		ドイツ語		Jerman		독일의		Tysk		niemiecki		alemão		alemão		Немецкий		alemán		tyska		ภาษาเยอรมัน		Almanca		Đức		0
+340	languages	Chinese		الصينية		চীনা		汉语				Číňan		Kinesisk		Chinees		چینی		kiinalainen		Chinois		Chinesisch		κινέζικα		סיני		चीनी		kínai		Cina		cinese		中国語		Cina		중국의		Chinese		chiński		chinês		chinês		Китайский		chino		kinesiska		จีน		Çince		Trung Quốc		0
+350	languages	Japanese		اليابانية		জাপানি		日语				Japonec		Japanese		Japanse		ژاپنی		japanilainen		Japonais		Japanisch		ιαπωνικά		יפני		जापानी		japán		Jepang		giapponese		日本語		Jepang		일본어		japanese		japoński		japonês		japonês		Японский		japonés		japanska		ญี่ปุ่น		Japonca		Nhật Bản		0
+360	languages	Russian		الروسية		রাশিয়ান		俄语				ruština		Russisk		Russisch		روسی		venäläinen		Russe		Russisch		ρωσικός		רוסי		रूसी		orosz		Rusia		russo		ロシア語		russian		러시아의		russisk		rosyjski		russo		russo		Русский		ruso		Ryska		ชาวรัสเซีย		Rusça		Nga		0
+370	languages	Italian		الإيطالي		ইতালিয়ান		意大利语				italština		Italiensk		Italiaans		ایتالیایی		italialainen		Italien		Italienisch		ιταλικά		איטלקי		इतालवी		olasz		Italia		italiano		イタリア語		Italia		이탈리아의		italiensk		włoski		italiano		italiano		Итальянский		italiano		Italienska		อิตาเลียน		İtalyanca		Ý		0
+380	languages	Portuguese		البرتغالية		পর্তুগিজ		葡萄牙语				portugalština		Portugisisk		Portugees		پرتغالی		portugali		Portugais		Portugiesisch		Πορτογάλος		פורטוגזית		पुर्तगाली		portugál		Portugis		portoghese		ポルトガル語		Portugis		포르투갈의		Portugisisk		portugalski		português		português		Португальский		portugués		Portugisiska		ภาษาโปรตุเกส		Portekizce		Bồ Đào Nha		0
+390	languages	Korean		كوري		কোরিয়ান		韩语				korejština		Korean		Koreaans		کره ای		korealainen		Coréen		Koreanisch		κορεάτης		קוריאני		कोरियाई		koreai		Korea		coreano		韓国語		Korea		한국의		Korean		koreański		coreano		coreano		Корейский		coreano		koreanska		เกาหลี		Korece		Hàn Quốc		0
+400	languages	English		الإنجليزية		ইংরেজি		英语				angličtina		English		Engels		انگلیسی		englanti		Anglais		Englisch		Αγγλικά		אנגלית		अंग्रेज़ी		angol		Inggris		inglese		英語		Inggris		영어		Norsk		angielski		Inglês		Inglês		Английский		inglés		engelska		ภาษาอังกฤษ		İngilizce		Anh		0
+410	languages	Arabic		العربية		আরবি		阿拉伯语				arabština		Arabic		Arabisch		عربی		arabialainen		arabe		Arabisch		αραβικός		ערבית		अरबी भाषा		arab		Arab		arabo		アラビア語		Arab		아라비아 말		arabisk		arabski		árabe		árabe		арабский		árabe		Arabic		ภาษาอาหรับ		Arapça		Tiếng Ả Rập		0
+420	languages	Danish		دانماركي		ডেনিশ		丹麦的				dánština		Dansk		Deens		دانمارکی		tanska		danois		Danish		Δανός		דני		डेनिश		dán		Denmark		danese		デンマーク語		Denmark		덴마크의		Danish		duński		dinamarquês		dinamarquês		датский		danés		Danska		ภาษาเดนมาร์ก		Danimarkalı		Đan Mạch		0
+430	languages	Dutch		هولندي		ডাচ		荷兰人				holandský		Dutch		Nederlands		هلندی		hollantilainen		néerlandais		Dutch		Ολλανδός		הולנדי		डच		holland		Belanda		Olandese		オランダ語		Landa		네덜란드		Dutch		holenderski		holandês		holandês		голландский		holandés		nederländska		ดัตช์		Hollanda		Hà Lan		0
+440	languages	Farsi		الفارسية		ফার্সি		波斯语				perština		Farsi		Farsi		فارسی		Persia		Farsi		Farsi		Farsi		פרסית		फारसी		Farsi		Farsi		Farsi		ペルシア語		Persia		페르시아어		Farsi		Farsi		Farsi		Farsi		фарси		Farsi		Farsi		Farsi		Farsça		Farsi		0
+450	languages	Persian		اللغة الفارسية		ফার্সি		波斯语				Peršan		Persian		Perzisch		فارسی		persialainen		Persique		Persian		Πέρσης		הפרסי		फ़ारसी		perzsa		Persia		persiano		ペルシア語		Persia		페르시아의		persisk		perski		persa		persa		персидский		persa		Persiska		ชาวเปอร์เซีย		İran		Tiếng Ba Tư		0
+460	languages	Finnish		فنلندية		ফিনিশ		芬兰				finský		Finsk		Fins		فنلاندی		suomalainen		Finnish		Finnisch		φινλανδικός		פיני		फिनिश		finn		Finlandia		finlandese		フィンランド語		Finlandia		핀란드의		Finnish		fiński		finlandês		finlandês		финский		finlandés		finska		ฟินแลนด์		Fince		Phần Lan		0
+470	languages	Greek		يوناني		গ্রিক		希腊语				Řek		Greek		Grieks		یونانی		kreikkalainen		grecque		Griechisch		ελληνικά		יווני		यूनानी		görög		Yunani		greco		ギリシャ語		Yunani		그리스의		gresk		grecki		grego		grego		греческий		griego		grekiska		กรีก		Yunan		Hy Lạp		0
+480	languages	Hebrew		العبرية		হিব্রু		希伯来语				hebrejština		Hebrew		Hebreeuws		زبان عبری		heprea		hébreu		Hebräisch		Εβραϊκά		עברית		यहूदी		héber		Ibrani		ebraico		ヘブライ語の		Ibrani		히브리어		Hebrew		hebrajski		hebraico		hebraico		иврит		hebreo		hebreiska		ชาวอิสราเอล		İbranice		tiếng Do Thái		0
+490	languages	Hindi		هندي		হিন্দি		印地文				hindština		Hindi		Hindi		هندی		hindi		Hindi		Hindi		Χίντι		הינדי		हिंदी		hindi		Hindi		Hindi		ヒンディー語		Hindi		힌디 어		Hindi		hinduski		hindi		hindi		хинди		hindi		Hindi		ภาษาฮินดี		Hintçe		Tiếng Hin-ddi		0
+500	languages	Norweigan		  Norweigan		Norweigan		 挪威语				norské		Norweigan		Norweigan		 Norweigan		Norja		norweigan		Norweigan		Νορβηγικά		נורבגי		Norweigan		Norweigan		Norweigan		Norweigan		ノルウェー語		norweigan		Norweigan		Norsk		Norweigan		norweigan		norweigan		Norweigan		noruego		Norweigan		นอร์เวย์		Norweigan		Norweigan		0
+510	languages	Polish		بولندي		পোলিশ		波兰语				polský		polsk		Pools		لهستانی		puola		polonais		Polnisch		Πολωνός		פולני		पोलिश		lengyel		Polandia		polacco		ポーランド語		Polandia		폴란드의		Polsk		polski		polonês		polonês		польский		polaco		polska		ขัด		Polonya		Ba Lan		0
+520	languages	Spanish		الأسبانية		স্প্যানিশ		西班牙人				španělština		Spanish		Spaans		اسپانیایی		espanjalainen		espagnol		Spanisch		ισπανικά		ספרדית		स्पेनिश		spanyol		Spanyol		Spagnolo		スペイン語		Spanyol		스페인의		Spansk		hiszpański		espanhol		espanhol		испанский		español		Spanska		ภาษาสเปน		İspanyolca		Tây Ban Nha		0
+530	languages	Swedish		اللغة السويدية		সুইডিশ		瑞典				švédský		Svensk		Zweedse		سوئد		ruotsi		Swedish		Schwedisch		σουηδικά		השבדי		स्वीडिश		svéd		bahasa Swedia		svedese		スウェーデン語		Swedia		스웨덴의		svensk		szwedzki		sueco		sueco		шведский		sueco		svensk		สวีเดน		İsveç		Thụy Điển		0
+540	languages	Turkish		التركية		তুর্কি		土耳其				turečtina		Tyrkisk		Turks		ترکی		turkki		turque		Türkisch		Τουρκικά		תורכי		तुर्की		török		Turki		turco		トルコ語		Turki		터키의		Tyrkisk		turecki		turco		turco		турецкий		turco		turkiska		ตุรกี		Türk		Thổ Nhĩ Kỳ		0
+550	colors	black		أسود		কালো		黑色				černý		black		zwart		سیاه		musta		Noir		schwarz		μαύρος		שחור		काला		fekete		hitam		nero		黒		ireng		검정		svart		czarny		preto		preto		Черный		Negro		svart		สีดำ		siyah		đen		0
+560	colors	blue		أزرق		নীল		蓝色				modrý		blå		blauw		ابی		sininen		Bleu		blau		μπλε		כחול		नीला		kék		biru		blu		青		biru		푸른		blå		niebieski		azul		azul		Синий		Azul		blå		สีน้ำเงิน		mavi		màu xanh		0
+570	colors	cyan		السماوي		সায়ান		青绿色				cyan		cyan		cyaan		فیروزه ای		syaani		Cyan		cyan		κυανό		ציאן		सियान		cián		cyan		ciano		シアン		cyan		시안		cyan		cyan		ciano		ciano		Бирюзовый				cyan		สีฟ้า		cam böbeği		cyan		0
+580	colors	gray		رمادي		ধূসর		灰色				šedá		grå		grijs		خاکستری		harmaa		Gris		grau		γκρί		אפור		ग्रे		szürke		abu-abu		grigio		灰色		werna abu-abu		회색		grå		szary		cinza		cinza		Серый		Gris		grå		สีเทา		gri		màu xám		0
+590	colors	green		أخضر		সবুজ		绿色				zelený		grøn		groen		سبز		vihreä		Vert		grün		πράσινος		ירוק		ग्रीन		zöld		hijau		verde		緑		ijo		녹색		grønn		zielony		verde		verde		Зеленый		Verde		grön		สีเขียว		yeşil		xanh		0
+600	colors	orange		البرتقالي		কমলা		橘黄色				oranžový		appelsin		oranje		نارنجی		oranssi		Orange		Orange		πορτοκάλι		תפוז		नारंगी		narancs		jeruk		arancione		オレンジ（橙）		oranye		오렌지		orange		pomarańczowy		laranja		laranja		Оранжевый				apelsin		สีส้ม		turuncu		cam		0
+610	colors	purple		أرجواني		রক্তবর্ণ		紫色				nachový		lilla		purper		رنگ ارغوانی		violetti		Pourpre		lila		μωβ		סגול		बैंगनी		lila		ungu		viola		紫		kain		자		lilla		purpurowy		roxo		roxo						lila		สีม่วง		mor		màu tím		0
+620	colors	red		أحمر		লাল		红色				červený		red		rood		قرمز		punainen		Rouge		red		κόκκινος		אדום		लाल		piros		merah		rosso		赤		abang		빨강		red		czerwony		vermelho		vermelho		Красный		Rojo		röd		สีแดง		kırmızı		đỏ		0
+630	colors	white		أبيض		সাদা		白色				bílý		hvid		wit		سفید		valkoinen		Blanc		weiß		λευκό		לבן		सफ़ेद		fehér		putih		bianco		白		putih		화이트		hvit		biały		branco		branco		Белый		Blanco		vit		ขาว		beyaz		trắng		0
+640	colors	yellow		أصفر		হলুদ		黄色				žlutý		gul		geel		زرد		keltainen		Jaune		gelb		κίτρινος		צהוב		पीला		sárga		kuning		giallo		黄色		kuning		황색		gul		żółty		amarelo		amarelo		Желтый		Amarillo		gul		สีเหลือง		sarı		vàng		0
+650	colors	pink		وردي		গোলাপী		粉红色				růžový		pink		roze		رنگ صورتی		vaaleanpunainen				rosa		ροζ		ורוד		गुलाबी		rózsaszín		warna merah muda		rosa				Jambon		핑크		rosa		różowy		rosa		rosa						rosa		สีชมพู		pembe		màu hồng		0
+660	colors	gold		الذهب		স্বর্ণ		金色				zlato		guld		goud		طلا		kulta				Gold		χρυσός		זהב		सोना		arany		emas		oro				emas		금		gull		złoto		ouro		ouro						guld		ทอง		altın sarısı		vàng		0
+670	Game Play	Start	Start Game					开始																																																				Başla				0
+680	Game Play	Start Game						开始游戏																																																				Oyun başlat				0
+690	Game Play	Play																																		Gioco																												0
+700	Game Play	Play again																																																														0
+710	Game Play	New Game						新游戏																																																				Yeni oyun				0
+720	Game Play	New	New Game					新																 Neu																																				Yeni				0
+730	Game Play	Resume	Resume Game					回到游戏																																																				Devam et				0
+740	Game Play	Restart																																																										Yeniden başlat				0
+750	Game Play	Score						得分																																																				Skor				0
+760	Game Play	Your Score																																																														0
+770	Game Play	High Scores						高分 or 高分榜																																																				En yüksek skorlar				0
+780	Game Play	Help	Help Menu					帮助																																																				Yardım				0
+790	Game Play	Next Level																																																														0
+800	Misc	Info																						 Info																																								0
+810	Misc	Done	Finished action																			Retour																																						Bitti				0
+820	Misc	Close 	Close Window																					 Schließen																																				Kapat				0
+830	Misc	Dismiss																				Annuler																																										0
+850	Misc	More																																																										Daha fazla				0
+870	Misc	Email failed to send. Please try again.																				Echec lors de l'envoi de l'email.																																										0
+880	Action	Undo	Undo a move/action																																																									Geri al				0
+890	Action	Edit																						 Bearbeiten																																								0
+900	Action	Cancel																				Annuler		Abbrechen																														Cancelar										0
+910	Action	Delete																																																														0
+920	Action	Send																																																														0
+930	Action	Save																				Sauvegarder		 Speichern																																								0
+940	Action	Copy																				Copier																																										0
+950	Misc	Failed																				Echec																																										0
+960	Game Level	Beginner																																																														0
+970	Game Level	Intermediate																																																														0
+980	Game Level	Advanced																																																														0
+990	Game Level	Easy																																																										Kolay				0
+1000	Game Level	Normal																																																										Normal				0
+1010	Game Level	Difficult																																																										Zor				0
+1020	Game Level	Hard																																																										Çok zor				0
+1030	Game Level	Insane																																																										Aşmış	literal translation of Insane is 'deli'			0
+1040	Misc	Option																																																														0
+1050	Misc	Options																																																														0
+1070	Misc	Adventure																																																														0
+1080	directions	north																																																														0
+1090	directions	south																																																														0
+1100	directions	east																																																														0
+1110	directions	west																																																														0
+1120	directions	right																																																														0
+1130	directions	left																																																														0
+1140	directions	turn right																																																														0
+1150	directions	turn left																																																														0
+1160	directions	up																																																														0
+1170	directions	down																																																														0
+1180	social	Share	Share on Twitter, Facebook																																																													0
+1190	Seven Wonders	Time Remaining																																																														0
+1200	Seven Wonders	death																																																														0
+1210	Seven Wonders	soundtrack																																																														0
+1220	Seven Wonders	pyramid																																																														0
+1230	Seven Wonders	carpet																																																														0
+1240	Seven Wonders	Ankh	http://en.wikipedia.org/wiki/Ankh																																																													0
+1250	Seven Wonders	bump																																																														0
+1260	Seven Wonders	ground																																																														0
+1270	Seven Wonders	Sphinx	of Egypt																																																													0
+1280	Seven Wonders	terrain																																																														0
+1290	Seven Wonders	dunes	sand dunes																																																													0
+1300	Seven Wonders	sword																																																														0
+1310	Seven Wonders	wind																																																														0
+1320	Account Management	Accounts																																																														0
+1330	Account Management	Updated Just Now																																																														0
+1340	Account Management	Buy	To purchase																																																													0
+1350	Account Management	Account Name																																																														0
+1370	Account Management	Sign In																																																														0
+1380	Account Management	Required																																																														0
+1390	Misc	Usage 																				 Utilisation		 Nutzung														 使用																 Uso										0
+1400	Misc	History 																				 L'histoire		 Verlauf														 ヒストリリスト																 Historia										0
+1410	Misc	Settings 																				 Paramètres	Réglages	 Einstellungen														 設定																 Configuración										0
+1420	Misc	Received 																				 Reçues		 Empfangen														 もらいました																 Recibió										0
+1430	Misc	Sent 																				 Envoyé		 Gesendet														 送信																 Enviado										0
+1440	Misc	Authentication 																				 D'authentification		 Authentifizierung														 認証情報																 Autenticación										0
+1450	Misc	Username 																				 Nom d'utilisateur		 Benutzername														 ユーザー名																 Nombre de usuario										0
+1470	Misc	Display 																				 Affichage		 Anzeige														 表																 Pantalla										0
+1480	Misc	Warning level 																				 Niveau avertissement		 Warnstufe														 メッセージの次元																 Nivel de advertencia										0
+1490	Misc	Alert level 																				 Niveau d'alerte		 Alarmstufe														 警報の次元																 Nivel de alerta										0
+1510	Misc	Source 																				 Source		 Quelle														 原始																 Fuente										0
+1520	Misc	enter 						 进入																																																								0
+1530	Misc	demo 						 这是一个例子																																																								0
+1540	Misc	Search 																				Recherche		Suche																														Buscar						Ara				0
+1550	Misc	Categories 																				Catégories		Kategorien																														Categorías										0
+1560	Misc	Devices 																				Matériels		Geräte																														Dispositivo										0
+1570	Misc	All 																				Tout		Alle																														Todo										0
+1580	Misc	Favorites 																				Favoris		Favoriten																														Favoritos										0
+1590	Misc	Required 																				Impératif		Benötigt																														Requerido										0
+1600	Misc	Login 																				Login		Anmelden																														Ingresar										0
+1610	Misc	Email 																				Adresse mel		E-Mail																														Email										0
+1620	Misc	Password 																				Mot de passe		Passwort	 Kennwort													 パスワード																Contraseña										0
+1630	Misc	Your Name 																				Votre nom		Dein Name																														Tu Nombre										0
+1640	Misc	Register 																				Enregistrer		Registrieren																														Registrarse										0
+1650	Misc	again 																				A nouveau		erneut																														otra vez										0
+1670	Misc	Logout 																				Sortir		Abmelden																														Cerrar Sesión										0
+1680	Misc	Please check your internet connection and try again. 																				Vérifiez votre connexion Internet et essayez à nouveau		Überprüfe Deine Internet-Verbindung und versuche es erneut.																														Por favor revise su conexión de internet y vuelva intentar.										0
+1690	Misc	Retry 																				Essayer à nouveau		Erneut versuchen																														Volver a procesa										0
+1700	Misc	Error 																				Erreur		Fehler																														Error										0
+1710	Misc	Try Again 																				Essayez à nouveau		Noch mal versuchen																														Intente Otra Vez										0
+1720	Misc	Create an Account 																				Créez un compte		Benutzerkonto anlegen																														Crear Una Cuenta										0
+1730	Misc	Logged in as %@ 																				Loggé en tant que %@		Angemeldet als %@																														Ingresado/a como %@										0
+1740	Misc	Search Results 																				Résultats de recherche		Suchergebnisse																														Resultados de la Búsqueda										0
+1750	Misc	No Results Found 																				Pas de résultats trouvés		Suche ohne Ergebnis																														No Hay Resultados										0
+1760	Misc	General Information 																				Information générale		Allgemeine Angaben																														Información General										0
+1770	Misc	Loading... 																				Chargement en cours...		Wird geladen...																														Cargando...										0
+1780	Misc	Browse 																				Visualiser		Durchsuchen																														Navegar										0
+1790	Misc	Guides 																				Guides		Anleitungen																														Guías										0
+1800	Misc	Projects 																				Projets		Projekte																														Proyectos										0
+1810	Misc	More Info 																				Information supplémentaire		Weitere Infos																														Más Información										0
+1820	Misc	Answers 																				Réponses		Antworten																														Respuestas										0
+1830	Misc	Back 																				Retour		Zurück																														Retrasar										0
+1840	Misc	Favorite 																				Favori		Favorit																														Favorito										0
+1850	Misc	Downloading																				Chargement en cours		Wird geladen																														Descargando										0
+1860	Misc	Saved 																				Enregistré		Gespeichert																														Guardado										0
+1870	Misc	Step %d 																				Étape %d		Schritt %d																														Paso %d										0
+1880	Misc	Store 	noun - Place to buy things.																			Boutique		Shop																														Tienda										0
+1890	Misc	Okay 																				OK		Okay																														Bueno										0
+1900	Misc	Untitled 																				Sans titre		Unbenannt																														Intitulado										0
+1910	Misc	All fields are required 																				Tous les champs sont requis		Alle Felder müssen ausgefüllt werden																														Todos los campos son obligatorios										0
+1920	Misc	Passwords don't match 																				les mots de passe ne sont pas identiques		Passwörter stimmen nicht überein																														Las contraseñas no coinciden										0
+1930	Misc	Swipe to Begin 																				Glisser pour commencer		Wische um anzufangen																														Deslize para Empezar										0
+1940	Misc	 Home																				 Accueil																																										0
+1950	Misc	 Play																				 Jouer																																										0
+1960	Misc	 Resume																				 Reprendre																																										0
+1970	Misc	 Exit																				 Quitter																																										0
+1980	Misc	 High Score																				 Meilleure score																																										0
+1990	Misc	 Try Again																				 Essaye encore																																										0
+2000	Misc	 Game Over!																				Dommage!																																										0
+2010	Misc	 Score																				 Score																																										0
+2020	Misc	 Lives																				 Vies																																										0
+2030	Misc	 Level																				 Niveau																																										0
+2040	Misc	 Rings																				 Anneaux																																										0
+2050	Misc	 Difficulty																				 Difficulté																																										0
+2060	Misc	Yes																																																														0
+2070	Misc	No																																																														0
+2080	Misc	OK																																																														0
+2090	Misc	Add																																																														0
+2100	Misc	Insert																																																														0
+2110	Misc	Project																																																														0
+2120	Misc	website						网站																Webseite												Sito Web																		Sitio Web										0
+2130	Misc	How to Play						游戏说明																Anleitung												Istruzioni																		Como jugar										0
+2140	Misc	About						相关																 Info																														Acerca										0
+2150	Misc	Exit						走出																Beenden												Uscire																		Salida										0
+2160	Misc	beer						啤酒																Bier												birra																												0
+2170	Misc	game						游戏																Spiel																																								0
+2180	Misc	games																																																														0
+2190	Misc	bar						 酒吧																																																								0
+2200	Misc	pub																																																														0
+2210	Misc	drink						喝酒																Trinken																																								0
+2220	Misc	cell phone																						Handy												telefonino																												0
+2240	Misc	device	Used to mean 'phone'					设备																																														dispositivo										0
+2250	Misc	Correct																																																														0
+2260	Misc	Incorrect																																																														0
+2270	Misc	Refresh																				Actualiser		Aktualisieren																																								0
+2280	Misc	Map																				Carte																																										0
+2290	Misc	My location																				Ma position																																										0
+2320	Misc	additional description																						 Weitere Beschreibung																																								0
+2330	Misc	amount																						 Betrag																																								0
+2340	Misc	artist																						 Interpret																																								0
+2350	Misc	at																						 am																																								0
+2360	Misc	author																						 Autor																																								0
+2370	Misc	book																						 Buch																																								0
+2390	Misc	category																						 Kategorie																																								0
+2400	Misc	cd																						 CD																																								0
+2410	Misc	clear																						 Löschen																																								0
+2430	Misc	contact details																						 Kontaktdetails																																								0
+2440	Misc	description																						 Beschreibung																																								0
+2450	Misc	dvd																						 DVD																																								0
+2470	Misc	entries																						 Einträge																																								0
+2480	Misc	entry																						 Eintrag																																								0
+2490	Misc	from																						 von																																								0
+2500	Misc	address book																						Adressbuch																																								0
+2520	Misc	money																						 Geld																																								0
+2530	Misc	name																						 Name																																								0
+2550	Misc	other																						 Sonstiges																																								0
+2560	Misc	push notification																						 Push Benachrichtigung																																								0
+2580	Misc	show																						 Anzeigen																																								0
+2590	Misc	title																						 Titel																																								0
+2600	Misc	to																						 an																																								0
+2610	Misc	tool																						 Werkzeug																																								0
+2620	Misc	until																						 bis																																								0
+2630	Misc	 Okay		 حسنا				好								Okay						 Ok		 Ok												 Ok		 オーケー				 좋아요						 Ok		 Ok		 Хорошо		 Bueno				ถูก		 Tamam		 Sao		0
+2640	Misc	 No Thanks		 لا شكرا				不，谢谢								 Nee, bedankt						 Non Merci		 Nein Danke												 No grazie		 いいえおかげん				 더 감사하지						 Não, obrigado		 Não, obrigado		 Нет, спасибо		 No, gracias				ไม่ขอบคุณ		 Hayır, teşekkürler		 Không, cảm ơn		0
+2650	Misc	 Close		 أغلق				关闭								 Sluiten						 Proche		 Schließen												 Chiudere		 クローズ				 가까운						 Fechar		 Fechar		 Близко		 Cerrar				ปิด		 Yakın		 Đóng		0
+2660	Misc	 Settings		 إعدادات				设置								 Instellingen						 Réglages		 Einstellungen												 Impostazioni		 設定				 설정						 Configurações		 Configurações		 Настройки		 Configuración				การตั้งค่า		 Ayarlar		 Cài đặt		0
+2670	Misc	 Anonymous Analytics		 مجهول الاحصائيات				匿名分析								 Anonieme Statistieken						 Analytics Anonymes		 Anonymous Statistik												 Statistiche anonime		 匿名解析				 익명 분석						 Anônimos Estatísticas		 Anônimos Estatísticas		 Анонимный Аналитика		 Estadísticas Anónimas				สถิติ ที่ไม่เปิดเผยตัว		 Anonim istatistik		 Vô danh Analytics		0
+2680	Misc	Rate On The App Store		معدل على المتجر				在App Store上率								Rente op de App Store						Noter sur l'App Store		Rate im App Store												Vota su App Store		App Storeでのレート				앱 스토어에 속도						Taxa na App Store		Taxa na App Store		 Оценить на магазин приложений		Cambio en la App Store				อัตราที่ App Store		App Store On oranı		Tỷ lệ trên App Store		0
+2690	Misc	 Restore In-App Purchases		 استعادة المشتريات في التطبيق،				恢复应用内购买								 Restore In-App Aankopen						 Restaurer Achats In-App		 Wiederherstellen In-App-Käufe												 Ripristina acquisti in-app		 アプリ内購入を復元				 인 - 앱 구매를 복원						 Restaurar In-App Compras		 Restaurar In-App Compras		 Восстановить в приложение покупки		 Restaurar Compras In-App				คืนค่าในการซื้อ App		 In-App satın geri		 Khôi phục mua trong App		0
+2700	Misc	Send Feedback		أرسل ملاحظاتك				发送反馈								Feedback verzenden						Envoyer un commentaire		Feedback senden												Invia commenti		フィードバックを送信				의견 보내기						Envie seu comentário		Envie seu comentário		 Отправить отзыв		Enviar comentarios				ส่งข้อเสนอแนะ		Geribildirim Gönder		Gửi phản hồi		0
+2710	Misc	 Welcome		 ترحيب				欢迎								 Welkom						 Accueil		 Willkommen												 Benvenuto		 歓迎				 환영						 Boas-vindas		 Boas-vindas		 Добро пожаловать		 Bienvenida				ยินดีต้อนรับ		 Karşılama		 Chào mừng		0
+2720	Time	hour		ساعة		ঘন্টা		小时				hodina		time		uur		ساعت		tunti		heure		Stunde		ώρα		שעה		घंटा		óra		jam		ora		時間		jam		시간		time		godzina		hora		hora		час		hora		timme		ชั่วโมง		saat		giờ		0
+2730	Time	minute		دقيقة		এক মিনিট সময়		分钟				minuta		minut		minuut		دقیقه		minuutti		minute		Minute		λεπτό		דקה		मिनट		perc		menit		minuto		分		menit		분		minutt		minuta		minuto		minuto		минута		minuto		minut		นาที		dakika		phút		0
+2740	Time	second	Unit of time	ثان		দ্বিতীয়		第二				druhý		sekund		tweede		دوم		toinen		deuxième		zweiten		δεύτερος		שני		दूसरा		második		kedua		secondo		2番目の		liyane		초		andre		drugi		segundo		segundo		второй		segundo		andra		ที่สอง		ikinci		thứ hai		0
+2750	Time	day		يوم		দিন		天				den		dag		dag		روز		päivä		jour		Tag		ημέρα		יום		दिन		nap		hari		giorno		日		dina		하루		dag		dzień		dia		dia		день		día		dag		วัน		gün		ngày		0
+2760	Time	year		سنة		বছর		年				rok		år		jaar		سال		vuosi		année		Jahr		έτος		שנה		वर्ष		év		tahun		anno		年		taun		년		år		rok		ano		ano		год		año		år		ปี		yıl		năm		0
+2770	Time	month		شهر		মাস		月				měsíc		måned		maand		ماه		kuukausi		mois		Monat		μήνας		חודש		माह		hónap		bulan		mese		月		sasi		달		måned		miesiąc		mês		mês		месяц		mes		månad		เดือน		ay		tháng		0
+2780	Misc	Network 		شبكة		নেটওয়ার্ক		网络				síť		Netværk		netwerk		شبکه		verkko		réseau		Netzwerk		δίκτυο		רשת		संजाल		hálózat		jaringan		rete		ネットワーク		jaringan		네트워크		nettverk		sieć		rede		rede		сеть		red		Nätverk		เครือข่าย		ağ		mạng		0
+2790	Misc	Version		الإصدار		সংস্করণ		版本				verze		versie	udgave	versie		نسخه		versio		Version		Version		εκδοχή		גרסה		संस्करण		változat		versi		versione		バージョン		versi		버전		versjon		wersja		versão		versão		версия		versión		version		รุ่น		versiyon		phiên bản		0
+2800	Misc	Port																																																														0
+2810	Misc	IP Address																																																														0
+2820	Misc	last	Last thing; Last place																																																													0
+2830	Misc	Test	Test' button action																																																													0
+2840	Misc	Subtitle																																																														0
