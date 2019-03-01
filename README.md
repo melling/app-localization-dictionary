@@ -11,7 +11,7 @@ and generate the appropriate files for all the languages in the database.
 I'm the author of several iOS language learning apps (http://www.h4labs.com) and I already have a database from which I can seed some of the words, and I'll be expanding over time.  However, I think the project will go much quicker if native speakers contribute to 
 database.  I can add other languages, of course.  The goal is to allow everyone to write once and ship everywhere.
 
-[[https://docs.google.com/spreadsheet/ccc?key=0ArVkFagUZg7bdHB0MTNuMDJySGpnazFpWVZMVUVVNmc&usp=sharing][Google Spreadsheet]]
+[Google Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0ArVkFagUZg7bdHB0MTNuMDJySGpnazFpWVZMVUVVNmc&usp=sharing)
 
 ## MySql Quickstart
 
