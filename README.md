@@ -1,4 +1,4 @@
-* App Localization Dictionary
+# App Localization Dictionary
 
 
 A database of common words and expressions used in mobile applicatons
@@ -13,9 +13,9 @@ database.  I can add other languages, of course.  The goal is to allow everyone 
 
 [[https://docs.google.com/spreadsheet/ccc?key=0ArVkFagUZg7bdHB0MTNuMDJySGpnazFpWVZMVUVVNmc&usp=sharing][Google Spreadsheet]]
 
-* MySql Quickstart
+## MySql Quickstart
 
-#+BEGIN_EXAMPLE
+```
 
 cd mysql/tbl
 mysql --user=h4labs --password=nopassword database < app_localization_dictonary.tbl; # Create table
@@ -28,11 +28,11 @@ delete from app_localization_dictionary where id = 0; -- Delete the header
 
 select *
 from app_localization_dictionary al;
-#+END_EXAMPLE
+```
 
-* sqlite3 Quickstart
+## sqlite3 Quickstart
 
-#+BEGIN_EXAMPLE
+```
 
-#+END_EXAMPLE
+```
 
